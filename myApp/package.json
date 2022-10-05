@@ -1,6 +1,7 @@
 {
   "name": "myApp",
   "version": "0.0.1",
+  "homepage": "https://gogomogo1989.github.io/ionic_practises",
   "private": true,
   "dependencies": {
     "@capacitor/app": "4.0.1",
@@ -42,6 +43,8 @@
     "workbox-streams": "^5.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --transformIgnorePatterns 'node_modules/(?!(@ionic/react|@ionic/react-router|@ionic/core|@stencil/core|ionicons)/)'",
@@ -66,7 +69,8 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "4.3.0"
+    "@capacitor/cli": "4.3.0",
+    "gh-pages": "^4.0.0"
   },
   "description": "An Ionic project"
 }

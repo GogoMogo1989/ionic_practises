@@ -21,9 +21,6 @@ import {
 } from '@ionic/react';
 import './Tab1.css';
 import {useForm, Controller} from "react-hook-form"
-import React, { useState } from 'react';
-import {NavContext} from '@ionic/react';
-import {useContext} from 'react';
 
 const Tab1: React.FC = () => {
 

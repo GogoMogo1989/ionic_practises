@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ionic_practises/static/css/main.60f2b05a.css",
+    "main.js": "/ionic_practises/static/js/main.57bb1de7.js",
+    "static/js/443.d2876b1e.chunk.js": "/ionic_practises/static/js/443.d2876b1e.chunk.js",
+    "static/js/738.78c37aa7.chunk.js": "/ionic_practises/static/js/738.78c37aa7.chunk.js",
+    "static/js/372.e9a5dd54.chunk.js": "/ionic_practises/static/js/372.e9a5dd54.chunk.js",
+    "static/js/856.d1dfbd7d.chunk.js": "/ionic_practises/static/js/856.d1dfbd7d.chunk.js",
+    "static/js/851.bb9222d9.chunk.js": "/ionic_practises/static/js/851.bb9222d9.chunk.js",
+    "static/js/22.e76ffa86.chunk.js": "/ionic_practises/static/js/22.e76ffa86.chunk.js",
+    "static/js/272.9a98ec40.chunk.js": "/ionic_practises/static/js/272.9a98ec40.chunk.js",
+    "static/js/841.2dc89898.chunk.js": "/ionic_practises/static/js/841.2dc89898.chunk.js",
+    "static/js/186.9caaef21.chunk.js": "/ionic_practises/static/js/186.9caaef21.chunk.js",
+    "static/js/377.009fd16a.chunk.js": "/ionic_practises/static/js/377.009fd16a.chunk.js",
+    "service-worker.js": "/ionic_practises/service-worker.js",
+    "index.html": "/ionic_practises/index.html",
+    "main.60f2b05a.css.map": "/ionic_practises/static/css/main.60f2b05a.css.map",
+    "main.57bb1de7.js.map": "/ionic_practises/static/js/main.57bb1de7.js.map",
+    "443.d2876b1e.chunk.js.map": "/ionic_practises/static/js/443.d2876b1e.chunk.js.map",
+    "738.78c37aa7.chunk.js.map": "/ionic_practises/static/js/738.78c37aa7.chunk.js.map",
+    "372.e9a5dd54.chunk.js.map": "/ionic_practises/static/js/372.e9a5dd54.chunk.js.map",
+    "856.d1dfbd7d.chunk.js.map": "/ionic_practises/static/js/856.d1dfbd7d.chunk.js.map",
+    "851.bb9222d9.chunk.js.map": "/ionic_practises/static/js/851.bb9222d9.chunk.js.map",
+    "22.e76ffa86.chunk.js.map": "/ionic_practises/static/js/22.e76ffa86.chunk.js.map",
+    "272.9a98ec40.chunk.js.map": "/ionic_practises/static/js/272.9a98ec40.chunk.js.map",
+    "841.2dc89898.chunk.js.map": "/ionic_practises/static/js/841.2dc89898.chunk.js.map",
+    "186.9caaef21.chunk.js.map": "/ionic_practises/static/js/186.9caaef21.chunk.js.map",
+    "377.009fd16a.chunk.js.map": "/ionic_practises/static/js/377.009fd16a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f2b05a.css",
+    "static/js/main.57bb1de7.js"
+  ]
+}
